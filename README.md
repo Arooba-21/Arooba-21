@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/arooba-jawaid-786000310" target="_blank">
+  <a href="https://www.linkedin.com/in/arooba-jawaid-786000310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/%40Esloques" target="_blank">
