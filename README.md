@@ -68,12 +68,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arooba-21&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arooba-21&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arooba-21&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://streak-stats.demolab.com?user=Arooba-21&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
