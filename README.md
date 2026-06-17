@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Arooba Jawaid 👋</h1>
 
 <p align="center">
-  <em>Aspiring Data Analyst & Engineer  |  Turning raw data into real insights</em>
+  <em>All about Data and Automation  |  Turning raw data into real insights</em>
 </p>
 
 <p align="center">
