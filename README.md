@@ -23,7 +23,7 @@
 
 ##  About Me
 
-- 🎯 Aspiring **Data Analyst & Data Engineer** based in **Karachi, Pakistan**
+- 🎯 Learning about **Data & Automation
 - 📊 Passionate about transforming messy data into meaningful stories
 - 🛠️ Currently building projects in **Python, SQL, Power BI & Streamlit**
 - 🌱 Learning **data pipeline design** and **web scraping**
