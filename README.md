@@ -23,25 +23,33 @@
 
 ##  About Me
 
-- 🎯 Learning about **Data & Automation**
-- 📊 Passionate about transforming messy data into meaningful stories
-- 🛠️ Currently building projects in **Python, SQL, Power BI & Streamlit**
-- 🌱 Learning **data pipeline design** and **web scraping**
-- 💡 Motto: *"Clean data, clear insights."*
+- Computer Science student, self-studying Data Engineering (Foundations → Processing → Storage → Orchestration → Cloud)
+- Building ETL pipelines with Python, SQL, PostgreSQL, Airflow, dbt
+- Background in data analysis/visualization, now focused on the engineering side of the data stack
+- Currently deepening skills in pipeline orchestration and cloud data storage
+- Motto: "Clean data, clear insights."
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**Data Engineering**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 **Data & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
