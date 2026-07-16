@@ -61,18 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🚌 Karachi Transit Navigator](https://github.com/Arooba-21/Karachi-Transit-Navigator) | Web app to find bus routes across Karachi with interactive map | Flask, NetworkX, Leaflet.js |
-| [📊 VizLab](https://github.com/Arooba-21/VizLab) | Interactive data visualization studio | Streamlit, Plotly, Seaborn |
-| [🧠 StackBlend](https://github.com/Arooba-21/StackBlend) | Interactive skill-to-role matcher that analyzes your tech stack and suggests best-fit engineering roles with match scoring | Python, Streamlit, Plotly |
-| [💼 Power BI Dashboards](https://github.com/Arooba-21/Power-BI-Dashboards) | Business intelligence dashboard collection | Power BI |
-| [📗 Excel Mastery](https://github.com/Arooba-21/Excel-Mastery) | Excel from basics to VBA automation | Excel, VBA |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
