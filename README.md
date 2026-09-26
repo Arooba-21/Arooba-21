@@ -1,27 +1,9 @@
-<h1 align="center">Hi there, I'm Arooba Jawaid 👋</h1>
-
-<p align="center">
-  <em>All about Data and Automation  |  Turning raw data into real insights</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arooba-jawaid-786000310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/%40Esloques" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto: aroobajawaid355@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
+<h1 align="center">Hi there, I'm Arooba Jawaid 👋</h1> <p align="center"> <em>All about Data, Automation & AI Agents | Turning raw data into real insights</em> </p> <p align="center"> <a href="https://www.linkedin.com/in/arooba-jawaid-786000310" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://x.com/AroobaJawaid_" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="https://www.youtube.com/%40Esloques" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="mailto: aroobajawaid355@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ##  About Me
 * Final year Computer Science student, self-studying Data and Automation.
 * Building ETL pipelines with Python, SQL, PostgreSQL, Airflow, dbt
-* Background in data analysis/M, now focused on the engineering side of the data stack
+* Background in data analysis/ML, now focused on the engineering side of the data stack
 * Currently deepening skills in pipeline orchestration and cloud data storage
 * Motto: "Clean data, clear insights."
 ---
